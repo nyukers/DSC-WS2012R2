@@ -1,0 +1,1 @@
+@powershell.exe -ExecutionPolicy RemoteSigned .\DSC-WS2012R2.ps1
